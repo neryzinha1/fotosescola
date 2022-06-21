@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<title>Titulos</title>
+		<meta charset="UTF-8">
+	</head>
+	<body style="background-color:black;">
+	
+	<h1 style="color:red;">Página titulos</h1>
+    <p style="color:white;"><b>Manaus fiu fiu 7w7</b></p>
+    <p style="color:white;"><strong>Vasco da gama</strong></p>
+	<p style="color:white;"><i>Molieres gays</i></p>
+	<p style="color:white;"><em>Melancia</em></p>
+	<p style="color:white;"><mark>Sometimes, all I think about is you,</mark> Late nights in the middle of June</p>
+	<p style="color:white;"><small>Spotlight, uh, moonlight, uh</small></p>
+	<p style="color:white;">Quem <del>sabe</del> volta vida</p>
+	<p style="color:white;">Mas eu 'tava vermelho tipo uma pimenta <ins>Como uma garota tem essa beleza?</ins>
+	<p style="color:white;">Eu tenho<sub> só 4 anos</sub> todo dia crescendo <sub>xeretando eu sou o caiooo</sub></p>
+	<p style="color:white;">Meu tio Harry <sup>tinha um sítio, ia-ia-ô</sup> e eu comia uns cogumelos <sup>mágicos que ele plantou</sup></p>
+    <br>
+
+    <a style="color:lightgreen;font-size:18px;" href="fosssssss.html">Ir para a pág ETEC FOTOS</a>
+	
+		</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<title>TIMES</title>
+	</head>
+	<body style="background-color:pink;">
+
+	<h1 style="color:red;font-size:40px;"><i>Times Brasileiros</i></h1>
+	
+	<p style="color:white;font-size:18px;">Página Times</p>
+	
+	<h1 style="color:yellow;font-size:30px;">São Paulo</h1>
+	   <img src="img/sp.png" width="200" height="200" title="São Paulo">
+	   <p style="color:white;font-size:18px;">
+	   São Paulo Futebol Clube é um clube poliesportivo brasileiro da cidade de São Paulo,<br>
+	   capital do estado homônimo.<br>
+	   Foi fundado em 25 de janeiro de 1930, tendo interrompido suas atividades em maio de 1935,<br>
+	   e as retomado em dezembro do mesmo ano.<br>
+	   </p>
+	   <br><br>
+	   
+	<h1 style="color:yellow;font-size:30px;">Corinthians</h1>
+	   <img src="img/cr.jpg" width="200" height="200" title="Timão">
+	   <p style="color:white;font-size:18px;">
+       Sport Club Corinthians Paulista é um clube poliesportivo brasileiro da cidade de São Paulo,<br> 
+	   capital do estado de São Paulo. Foi fundado como uma equipe de futebol no dia 1 de setembro<br> 
+	   de 1910 por um grupo de operários do bairro Bom Retiro.<br>
+	   </p>
+	   <br> <br>
+	   
+	   <h1 style="color:yellow;font-size:30px;">Santos</h1>
+	   <img src="img/san.jpg" width="200" height="200" title="Santoss">
+	   <p style="color:white;font-size:18px;">
+       Santos Futebol Clube é um clube poliesportivo brasileiro da cidade de Santos, São Paulo.<br>
+	   Foi fundado em 14 de abril de 1912, suas cores iniciais seriam o branco, azul e dourado,<br>
+	   mas um ano após a sua fundação, ficou decidido que as cores do clube passariam a ser branco e preto.<br>
+	   </p>
+	   <br><br>
+	   
+	   <h1 style="color:yellow;font-size:30px;">Flamengo</h1>
+	   <img src="img/mengo.jpg" width="200" height="200" title="Mengão">
+	   <p style="color:white;font-size:18px;">
+       O Clube de Regatas do Flamengo é uma agremiação poliesportiva brasileira com sede na<br>
+	   cidade do Rio de Janeiro, capital do estado de mesmo nome.<br>
+	   </p>
+	   <br><br>
+	   
+	   <h1 style="color:yellow;font-size:30px;">Palmeiras</h1>
+	   <img src="img/pal.jpg" width="200" height="200" title="Palmeiras">
+	   <p style="color:white;font-size:18px;">
+	   Sociedade Esportiva Palmeiras é um clube poliesportivo brasileiro da cidade de São Paulo,<br>
+	   capital do estado homônimo. Foi fundado em 26 de agosto de 1914 e suas cores,<br>
+	   presentes no escudo e bandeira oficial, são o verde e branco.<br>
+	   </p>
+	   <br><br>
+	   
+	   <a style="color:blue;font-size:18px;" href="foto.html">Ir para pág FOTO</a>
+	   <br>
+	   <br>
+	   <br>
+	   <br>
+
+	</body>
+</html>

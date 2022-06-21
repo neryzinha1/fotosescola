@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<title>Fotos Escola</title>
+		<meta charset="UTF-8">
+	</head>
+	<body style="background:lightPink;">
+
+	<h1 style="color:black;">ETEC Fernando Prestes</h1>
+    <h2 style="color:white;">-------------------------------------------</h2>
+    <h3 style="color:darkred;font-size:25px;">Fotos da Escola</h3>
+	
+	
+	<h1 style="color:black;font-size:15px;">Foto 1 - Florzinha Vermelhinha &#128150</h1>
+	   <img src="img/florv.jpg" width="200" height="325" title="Florzinha Antes">
+	    <img src="img/foto1.jpg" width="200" height="325" title="Florzinha Depois">
+	<p style="color:white;font-size:18px;">
+	Me remete paz<br>
+	</p>
+	<br>
+	<h1 style="color:black;font-size:15px;">Foto 2 - Florzinha Roxinha &#128156</h1>
+	   <img src="img/florr.jpg" width="200" height="325" title="Roxinha Antes">
+	    <img src="img/foto2.jpg" width="200" height="325" title="Roxinha Depois">
+	<p style="color:white;font-size:18px;">
+	Me remete paz<br>
+	</p>
+	<br>
+		<h1 style="color:black;font-size:15px;">Foto 3 - Escada</h1>
+	   <img src="img/escada.jpg" width="200" height="350" title="Escada Antes">
+	    <img src="img/escada.jpg" width="200" height="350" title="Escada Depois">
+	<p style="color:white;font-size:18px;">
+	Me remete paz<br>
+	</p>
+	<br>
+
+  
+	   <a style="color:lightgreen;font-size:18px;" href="index.html">Ir para a pág TIMES</a>
+	   <br><br>
+	   
+	</body>
+</html>
